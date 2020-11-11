@@ -36,7 +36,7 @@
 - [How to set up a Filecoin Lotus node and connect remotely to it](https://medium.com/coinmonks/how-to-set-up-a-filecoin-lotus-node-and-connect-remotely-to-it-208c2f810060)
 - [Wrapped Filecoin: Winner of Textile's best protocol bridge at Apollo](https://blog.textile.io/wfil-best-protoco-bridge-apollo/)
 
-## Inspiration & References
+## References
 
 - [WBTC](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599#code)
 - [WETH](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
