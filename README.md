@@ -20,7 +20,7 @@
 - [GitHub](https://github.com/wfil)
 - [Telegram](https://t.me/WrappedFIL)
 - [Slack](https://wrapped-filecoin.slack.com)
-- [Discord](https://discord.gg/uUY5pF5a)
+- [Discord](https://discord.gg/N5vhmsav5V)
 - [Newsletter](https://wfil.substack.com)
 - [Medium](https://medium.com/@wfil)
 - [Gitcoin Grant](https://gitcoin.co/grants/1454/wrapped-filecoin-wfil)
