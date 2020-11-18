@@ -19,6 +19,8 @@
 - [Twitter](https://twitter.com/WrappedFIL)
 - [GitHub](https://github.com/wfil)
 - [Telegram](https://t.me/WrappedFIL)
+- [Slack](https://wrapped-filecoin.slack.com)
+- [Discord](https://discord.gg/uUY5pF5a)
 - [Newsletter](https://wfil.substack.com)
 - [Medium](https://medium.com/@wfil)
 - [Gitcoin Grant](https://gitcoin.co/grants/1454/wrapped-filecoin-wfil)
